@@ -1,7 +1,6 @@
 {
   "name": "web-app",
   "version": "0.1.0",
-  "homepage": "https://NinaPaivinen.github.io/",
   "private": true,
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
@@ -54,6 +53,7 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.49.0",
     "gh-pages": "^4.0.0"
   }
 }

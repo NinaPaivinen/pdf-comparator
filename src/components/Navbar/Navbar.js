@@ -4,7 +4,6 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import "./CSS/navbar.css"
 import { Link } from "react-router-dom";
-import Logo from "./pics/logo.png"
 
 function NavBar() {
 
@@ -51,7 +50,7 @@ function scrollFunction() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={Logo} className="img-fluid logo" alt="brand" />
+        PDF-C
 
         </Navbar.Brand> 
         <Navbar.Toggle
