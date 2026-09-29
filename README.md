@@ -14,3 +14,5 @@ Client on React.
 4. Sovellus etsii kansiosta samankaltaisia PDF-tiedostoja.
 
 > Konenäköä ei käytetä.
+
+![alt text](image.png)

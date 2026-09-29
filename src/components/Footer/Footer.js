@@ -34,7 +34,7 @@ function Footer() {
     <div className="footer">
 
 <div className="copyright">
-  <h3>© {new Date().getFullYear()}pdf-comprator</h3>
+  <h3>© {new Date().getFullYear()}  pdf-comprator</h3>
 </div>
 
     </div>
