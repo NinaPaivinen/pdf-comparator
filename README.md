@@ -4,6 +4,8 @@ Yksinkertainen PDF-tiedostojen vertailun raakile.
 
 Projektia ei tällä hetkellä kehitetä aktiivisesti.
 
+Client on React.
+
 ## Toiminta
 
 1. Valitaan kansio.
